@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+langgraph
+langchain
+langchain-groq
+langsmith
+sqlalchemy
+psycopg[binary]
+alembic
+httpx
+
+email-validator
